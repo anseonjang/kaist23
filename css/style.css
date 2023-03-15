@@ -15,7 +15,7 @@ body {background-color: rgb(000,065,145); font-size: 15px;}
 #wrap header nav.menu { width: 800px; height: 100px;float: right;}
 #wrap header nav.menu ul { float: right;}
 #wrap header nav.menu ul li { float:left;}
-#wrap header nav.menu ul li a {display: block; padding: 7px 40px; color: #fff; border-top:1px solid  rgb(000,065,145); 
+#wrap header nav.menu ul li a {display: block; width:130px; height: 30px;line-height: 30px; text-align: center; color: #fff; border-top:1px solid  rgb(000,065,145); 
       margin-left: 1px; background-color: rgb(000,065,145);  margin-top: 17px; transition: .3s;}
 #wrap header nav.menu ul li a:hover,
 #wrap header nav.menu ul li a:focus {background-color: #fff; color: rgb(000,065,145); border-top:1px solid  rgb(000,065,145);
